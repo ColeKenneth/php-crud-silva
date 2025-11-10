@@ -33,8 +33,8 @@
     <nav>
         <button onclick="location.href='create.php'">Add Student</button>
         <button onclick="location.href='read.php'">View Students</button>
-        <button onclick="location.href='update.php'">Update Student</button>
-        <button onclick="location.href='delete.php'">Delete Student</button>
+        <button onclick="location.href='read.php'">Update Student</button>
+        <button onclick="location.href='read.php'">Delete Student</button>
     </nav>  
 </body>
 </html>
